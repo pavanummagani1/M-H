@@ -1,4 +1,5 @@
-[
+{
+  "Products":[
   {
     "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
     "category": "jewelery",
@@ -273,3 +274,5 @@
     "id": 36
   }
 ]
+
+}
